@@ -2,9 +2,9 @@
 > A Console written in C
 
 ## Table Of Contents
-- [Installation] (#Installation🛠️)
-- [Motivation] (#Motivation🔥)
-- [License] (#License)
+- [Installation](#Installation)
+- [Motivation](#Motivation)
+- [License](#License)
 
 ## Installation 🛠️
 ```bash
@@ -19,7 +19,7 @@ The main motivation is to learn C linux library functions (e.g. opendir) and inc
 - How to parse directories and take info from them
 - Creating of a child process with exec
 - Strengthen knowledge of token parsing (adding tokens to the buffer)
-- How to find out about shell built-in functions (e.g. cd) via [compgen] (https://www.gnu.org/software/bash/manual/html_node/Programmable-Completion-Builtins.html) 
+- How to find out about shell built-in functions (e.g. cd) via [compgen](https://www.gnu.org/software/bash/manual/html_node/Programmable-Completion-Builtins.html) 
 
 ## License
-This project is open source and available under the [MIT License] (https://github.com/remyone/devconsole/blob/main/LICENSE)
+This project is open source and available under the [MIT License](https://github.com/remyone/devconsole/blob/main/LICENSE)
