@@ -17,7 +17,7 @@ gcc main.c execution.c -o main
 ## Motivation 🔥
 The main motivation is to learn C linux library functions (e.g. opendir) and increase familiarity with the `<string.h>` functions and parsing directories . Here are some of the concepts I've learned writing this program: 
 - How to parse directories and take info from them
-- Creating of a child process with exec
+- How to work with fork and exec
 - Strengthen knowledge of token parsing (adding tokens to the buffer)
 - How to find out about shell built-in functions (e.g. cd) via [compgen](https://www.gnu.org/software/bash/manual/html_node/Programmable-Completion-Builtins.html) 
 
