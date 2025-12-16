@@ -1,4 +1,4 @@
-# Devconsole </>
+# Devconsole 🖥️>_
 > A Console written in C
 
 ## Table Of Contents
