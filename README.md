@@ -4,6 +4,7 @@
 ## Table Of Contents
 - [Installation](#Installation)
 - [Motivation](#Motivation)
+- [@TODO](#@TODO)
 - [License](#License)
 
 ## Installation 🛠️
@@ -20,6 +21,9 @@ The main motivation is to learn C linux library functions (e.g. opendir) and inc
 - How to work with [fork](https://man7.org/linux/man-pages/man2/fork.2.html) and [exec](https://man7.org/linux/man-pages/man3/exec.3.html)
 - Strengthen knowledge of token parsing (adding tokens to the buffer)
 - How to find out about shell built-in functions (e.g. cd) via [compgen](https://www.gnu.org/software/bash/manual/html_node/Programmable-Completion-Builtins.html) 
+
+## @TODO
+- [-] 
 
 ## License
 This project is open source and available under the [MIT License](https://github.com/remyone/devconsole/blob/main/LICENSE)
