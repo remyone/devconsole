@@ -23,7 +23,13 @@ The main motivation is to learn C linux library functions (e.g. opendir) and inc
 - How to find out about shell built-in functions (e.g. cd) via [compgen](https://www.gnu.org/software/bash/manual/html_node/Programmable-Completion-Builtins.html) 
 
 ## @TODO
-- [-] 
+### Shell work itself
+ [-] Add a pipiline (1 and more)
+ [-] Get the access to shell built-in functions (e.g. `cd`) and control them (to call them)
+
+### Shell
+ [-] Change a "my console in original console" to my console that runs in GUI (e.g. Qt)
+
 
 ## License
 This project is open source and available under the [MIT License](https://github.com/remyone/devconsole/blob/main/LICENSE)
