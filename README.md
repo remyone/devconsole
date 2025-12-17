@@ -22,7 +22,7 @@ The main motivation is to learn C linux library functions (e.g. opendir) and inc
 - Strengthen knowledge of token parsing (adding tokens to the buffer)
 - How to find out about shell built-in functions (e.g. cd) via [compgen](https://www.gnu.org/software/bash/manual/html_node/Programmable-Completion-Builtins.html) 
 
-## @TODO 📝
+## @TODO 📌
 ### Shell work itself
  [-] Add a pipiline (1 and more)
  
