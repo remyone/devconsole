@@ -25,8 +25,6 @@ The main motivation is to learn C linux library functions (e.g. opendir) and inc
 ## 📌 @TODO 
 ### Shell work itself
  - [ ] Add a pipeline (1 and more)
- 
- - [ ] Get the access to shell built-in functions (e.g. `cd`) and control them (to call them)
 
 ### Shell
  - [ ] Change a "my console in original console" to my console that runs in GUI (e.g. Qt)
