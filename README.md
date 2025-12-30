@@ -26,9 +26,5 @@ The main motivation is to learn C linux library functions (e.g. opendir) and inc
 ### Shell work itself
  - [ ] Add a pipeline (1 and more)
 
-### Shell
- - [ ] Change a "my console in original console" to my console that runs in GUI (e.g. Qt)
-
-
 ## License
 This project is open source and available under the [MIT License](https://github.com/remyone/devconsole/blob/main/LICENSE)
