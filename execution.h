@@ -9,6 +9,7 @@
 #include <sys/types.h>
 #include <dirent.h>
 #include <fcntl.h>
+#include <errno.h>
 
 #define BUFFER_SIZE 1024
 #define reset "\x1b[0m"
@@ -16,9 +17,12 @@
 
 //this function scans /bin directory and if the command is found there, then it'll launch it from /bin
 //Otherwise, it'll just exec a program with pathname/filename
+void builtin_funcs_handler(char *tokens[], int NOTokens);
 int program_definer(char *token);
 void build_argv(char *tokens[BUFFER_SIZE], char *argv[BUFFER_SIZE], int NOTokens);
-void build_file_path(char file[BUFFER_SIZE], char *token);
-void exec_program(char *tokens[BUFFER_SIZE], int NOTokens);
+void build_file_path(char file[BUFFER_SIZE], char *tokens[], int NOTokens);
+void start();
+void change_dir();
+void exec_program(char *tokens[BUFFER_SIZE], int NOTokens, char *path);
 
 #endif
